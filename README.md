@@ -1,0 +1,5 @@
+- Nama : Indra gunawan
+- Lahir : 30 Agustus 1999
+- Hoby : Bermain futsal
+- Studi : STMIK pontianak
+- Belajar web progaming
